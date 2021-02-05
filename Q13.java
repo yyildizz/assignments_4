@@ -6,7 +6,6 @@ public class Q13 {
 
 	public static void main(String[] args) {
 
-		// a number of calories and fat grams
 
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the number of checks : ");

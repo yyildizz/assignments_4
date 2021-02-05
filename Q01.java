@@ -7,7 +7,9 @@ public class Q01 {
 	public static void main(String[] args) {
 
 /*		Question-1
-		The body mass index (BMI) is used to estimate the risk of weight-related problems based on a subject's height and mass. It was designed by the mathematician Adolphe Quetelet in the 1800s and is sometimes referred to as the Quetelet index. The BMI is computed as:
+		The body mass index (BMI) is used to estimate the risk of weight-related problems 
+		based on a subject's height and mass. It was designed by the mathematician Adolphe Quetelet in the 1800s 
+		and is sometimes referred to as the Quetelet index. The BMI is computed as:
 
 	       BMI = mass / (height * height)
 
